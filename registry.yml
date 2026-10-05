@@ -1,0 +1,76 @@
+schema_version: 0.1
+project: "El Canal — Applied Cognitive Symbology (ACS)"
+website: https://elcanal.es
+source_of_record: Zenodo
+scope: "Initial technical and structural subset"
+entries:
+  - id: cap
+    title: "CAP — Canal Activation Protocol"
+    current_version: v0.3
+    current_doi: 10.5281/zenodo.23138399
+    concept_doi: 10.5281/zenodo.18479086
+    type: research-tool
+    repository: https://github.com/ulaulaygpt/elcanal-cap
+    status: current
+  - id: ptc-r01
+    title: "R-01 — Canonical Text Specification for the Canal Transparency Protocol"
+    current_version: v1.1
+    current_doi: 10.5281/zenodo.21406620
+    type: specification
+    repository: https://github.com/ulaulaygpt/ptc-ctp
+    status: current
+  - id: ptc-f
+    title: "PTC-F — Functional Specification of the Canal Transparency Protocol"
+    current_version: v1.2
+    current_doi: 10.5281/zenodo.21406680
+    type: specification
+    repository: https://github.com/ulaulaygpt/ptc-ctp
+    status: current
+  - id: ptc-arch
+    title: "ARCH — Normative Architecture and Governance Specification for PTC/CTP"
+    current_version: v0.3
+    current_doi: 10.5281/zenodo.21406665
+    type: specification
+    repository: https://github.com/ulaulaygpt/ptc-ctp
+    status: current
+  - id: frs-01
+    title: "FRS-01 — file-reference-sha256-v1"
+    current_version: v0.3
+    current_doi: 10.5281/zenodo.21830122
+    type: specification
+    repository: https://github.com/ulaulaygpt/ptc-ctp
+    status: current
+  - id: pkg-02
+    title: "PKG-02 — Validator Package Format 2.0"
+    current_version: v0.4
+    current_doi: 10.5281/zenodo.21830169
+    type: specification
+    repository: https://github.com/ulaulaygpt/ptc-ctp
+    status: current
+  - id: dcl-03
+    title: "DCL-03 — disclosure-notice-v1"
+    current_version: v0.3
+    current_doi: 10.5281/zenodo.21830264
+    type: specification
+    repository: https://github.com/ulaulaygpt/ptc-ctp
+    status: current
+  - id: validator
+    title: "Validator — Reference Implementation of PTC/CTP"
+    current_version: v1.1
+    current_doi: 10.5281/zenodo.21833853
+    type: software
+    repository: https://github.com/ulaulaygpt/ptc-validator
+    status: current
+  - id: la-sal-del-eclipse
+    title: "La sal del eclipse"
+    current_doi: 10.5281/zenodo.22977400
+    type: book
+    status: current
+    relations:
+      - PRI-1.0
+  - id: observatorio-c1-v3
+    title: "Observatorio Provincial de Transparencia de Sevilla — Consulta 1 — Informe de cierre longitudinal 2025–2026"
+    current_version: V3
+    current_doi: 10.5281/zenodo.22571928
+    type: journal-article
+    status: closed
