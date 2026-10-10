@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-10-10",
+  "curated_registry_entries": 10,
+  "current_dois_present_in_web_corpus_snapshot": 9,
+  "current_dois_absent_from_web_corpus_snapshot": 1,
+  "absent": [
+    {
+      "id": "cap",
+      "current_version": "v0.3",
+      "current_doi": "10.5281/zenodo.23138399",
+      "zenodo_public_status": "published",
+      "zenodo_publication_date": "2026-10-04",
+      "files_verified_present": [
+        "CAP_v0.3_2026-10-04_PUBLICO_FINAL.zip",
+        "CAP_v0.3_2026-10-04_PUBLICO_FINAL_ptc_frs01.zip"
+      ],
+      "web_snapshot_represents": "CAP v0.2 — 10.5281/zenodo.19545927",
+      "interpretation": "The current curated CAP release is public on Zenodo but is not yet represented by the 62-DOI website snapshot."
+    }
+  ],
+  "note": "Absence from corpus-index.yml means only that the source website snapshot does not currently represent that DOI. It does not imply that the object is unpublished."
+}
