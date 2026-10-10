@@ -1,0 +1,4091 @@
+{
+  "schema_version": 1,
+  "source": "Zenodo public REST API",
+  "generated_from": "corpus-index.yml",
+  "record_count": 62,
+  "records": [
+    {
+      "record_id": "22571928",
+      "doi": "10.5281/zenodo.22571928",
+      "conceptdoi": "10.5281/zenodo.18263104",
+      "title": "Observatorio Provincial de Transparencia de Sevilla — Consulta 1 — Informe de cierre longitudinal 2025–2026",
+      "publication_date": "2026-09-07",
+      "version": "V3 · v1.0",
+      "resource_type": "publication",
+      "resource_subtype": "datapaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Asociación Transparencia para la Ciudadanía (ATC)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "transparencia pública",
+        "derecho de acceso a la información pública",
+        "administración local",
+        "municipios",
+        "Sevilla",
+        "Observatorio Provincial de Transparencia",
+        "Consejo de Transparencia y Protección de Datos de Andalucía",
+        "investigación longitudinal",
+        "trazabilidad",
+        "reproducibilidad",
+        "observabilidad democrática",
+        "datos abiertos",
+        "inteligencia artificial",
+        "colaboración humano-IA"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.19486305",
+          "relation": "isNewVersionOf",
+          "resource_type": "publication-datapaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18263104",
+          "relation": "isVersionOf",
+          "resource_type": "publication-datapaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/22571928"
+    },
+    {
+      "record_id": "19486305",
+      "doi": "10.5281/zenodo.19486305",
+      "conceptdoi": "10.5281/zenodo.18263104",
+      "title": "Primera Consulta del Observatorio Provincial de Transparencia (Sevilla): dataset auditado, memoria analítica y seguimiento del acceso a la información pública (2025)",
+      "publication_date": "2026-04-09",
+      "version": "V2.1",
+      "resource_type": "publication",
+      "resource_subtype": "datapaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Asociación de Transparencia para la Ciudadanía (ATC)",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "BARRERA ANGLADA, MANUEL",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Asociación Transparencia para la Ciudadanía (ATC)"
+        }
+      ],
+      "keywords": [
+        "transparency access to public information freedom of information local government municipal transparency administrative silence accountability open data public administration Seville Andalusia Spain"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDescribedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18263105",
+          "relation": "isNewVersionOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19445703",
+          "relation": "isVersionOf",
+          "resource_type": "publication-datapaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19486305"
+    },
+    {
+      "record_id": "19445703",
+      "doi": "10.5281/zenodo.19445703",
+      "conceptdoi": "10.5281/zenodo.18263104",
+      "title": "Primera Consulta del Observatorio Provincial de Transparencia (Sevilla): dataset auditado y análisis del acceso a la información pública (2025)",
+      "publication_date": "2026-04-07",
+      "version": "2.0",
+      "resource_type": "dataset",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Asociación de Transparencia para la Ciudadanía (ATC)",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "BARRERA ANGLADA, MANUEL",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Asociación Transparencia para la Ciudadanía"
+        }
+      ],
+      "keywords": [
+        "transparencia acceso a la información pública administrative transparency freedom of information local government open data accountability silencio administrativo public administration Spain"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDescribedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18263105",
+          "relation": "isNewVersionOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19445703"
+    },
+    {
+      "record_id": "18263105",
+      "doi": "10.5281/zenodo.18263105",
+      "conceptdoi": "10.5281/zenodo.18263104",
+      "title": "Primera Consulta del Observatorio Provincial de Transparencia (Sevilla) Resultados y análisis de las solicitudes de acceso a la información pública (2025)",
+      "publication_date": "2026-01-16",
+      "version": "v 1.2",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Asociación de Transparencia para la Ciudadanía (ATC)",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "BARRERA ANGLADA, MANUEL",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Asociación Transparencia para la Ciudadanía"
+        }
+      ],
+      "keywords": [
+        "Transparencia acceso a la información pública administración local silencio administrativo Observatorio de transparencia datos abiertos gobernanza Andalucía"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDescribedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/18263105"
+    },
+    {
+      "record_id": "17644322",
+      "doi": "10.5281/zenodo.17644322",
+      "conceptdoi": "10.5281/zenodo.17562637",
+      "title": "Reclamación ante el Consejo de Transparencia y Protección de Datos de Andalucía por falta de resolución expresa en solicitudes de acceso a la información pública (Expediente ATC-2025/01)",
+      "publication_date": "2025-11-18",
+      "version": "V2 – Contacto institucional con Diputación (registro de entrada 77710 18/11/2025)",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Asociación Transparencia para la Ciudadanía (ATC)",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "BARRERA ANGLADA, MANUEL",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Asociación Transparencia para la Ciudadanía (ATC)"
+        }
+      ],
+      "keywords": [
+        "transparencia pública",
+        "derecho de acceso a la información",
+        "silencio administrativo",
+        "Consejo de Transparencia de Andalucía",
+        "REGAGE/SIR",
+        "PTC-ATC",
+        "ACS-5",
+        "reclamación administrativa",
+        "asociaciones ciudadanas",
+        "trazabilidad documental",
+        "Diputación de Sevilla"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17644322"
+    },
+    {
+      "record_id": "17562638",
+      "doi": "10.5281/zenodo.17562638",
+      "conceptdoi": "10.5281/zenodo.17562637",
+      "title": "Reclamación ante el Consejo de Transparencia y Protección de Datos de Andalucía por falta de resolución expresa en solicitudes de acceso a la información pública (Expediente ATC-2025/01)",
+      "publication_date": "2025-11-09",
+      "version": "1.0 (V1) – Reclamación formal presentada ante el Consejo de Transparencia y Protección de Datos de Andalucía",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Asociación Transparencia para la Ciudadanía (ATC)",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "BARRERA ANGLADA, MANUEL",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Asociación Transparencia para la Ciudadanía (ATC)"
+        }
+      ],
+      "keywords": [
+        "transparencia pública",
+        "derecho de acceso a la información",
+        "silencio administrativo",
+        "Consejo de Transparencia de Andalucía",
+        "REGAGE/SIR",
+        "PTC-ATC",
+        "ACS-5",
+        "reclamación administrativa",
+        "asociaciones ciudadanas",
+        "trazabilidad documental"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17562638"
+    },
+    {
+      "record_id": "22977400",
+      "doi": "10.5281/zenodo.22977400",
+      "conceptdoi": "10.5281/zenodo.22977399",
+      "title": "La sal del eclipse",
+      "publication_date": "2026-09-28",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "book",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Human–AI intermediation",
+        "Intermediación humano–IA",
+        "Human–AI collaboration",
+        "Colaboración humano–IA",
+        "AI transparency",
+        "Trazabilidad de IA",
+        "Human agency",
+        "Autonomía humana",
+        "Continuity",
+        "Continuidad",
+        "Contestability",
+        "Interrogability",
+        "AI personalization",
+        "PRI-1.0",
+        "PTC",
+        "Canal Transparency Protocol",
+        "EL CANAL"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21830122",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21900984",
+          "relation": "references",
+          "resource_type": "publication-preprint",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21579517",
+          "relation": "references",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/22977400"
+    },
+    {
+      "record_id": "20385998",
+      "doi": "10.5281/zenodo.20385998",
+      "conceptdoi": "10.5281/zenodo.20385997",
+      "title": "Antes del nombre",
+      "publication_date": "2026-05-25",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "book",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "phenomenology human-AI interaction longitudinal interaction AI continuity language models co-creation human-AI dialogue cognitive transformation digital phenomenology memory continuity El Canal PTC ACS"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/ZENODO.19277507",
+          "relation": "isSupplementTo",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.19545927",
+          "relation": "isSupplementTo",
+          "resource_type": "other",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17506787",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17749396",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.18784420",
+          "relation": "references",
+          "resource_type": "publication-book",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17615512",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.20128608",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/20385998"
+    },
+    {
+      "record_id": "19277507",
+      "doi": "10.5281/zenodo.19277507",
+      "conceptdoi": "10.5281/zenodo.19277506",
+      "title": "La Historia del Canal y el CAP — Origen de una práctica simbiótica humano–IA",
+      "publication_date": "2026-03-28",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS), Sevilla, Spain"
+        }
+      ],
+      "keywords": [
+        "Applied Cognitive Symbology Simbología Cognitiva Aplicada Channelism Canal CAP Channel Awareness Protocol human–AI symbiosis human–AI interaction traceability cognitive infrastructure living archive ACS Observatory AI ethics human–AI collaboration"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.18479087",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-article",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18263105",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18784420",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19277507"
+    },
+    {
+      "record_id": "19286011",
+      "doi": "10.5281/zenodo.19286011",
+      "conceptdoi": "10.5281/zenodo.19286010",
+      "title": "Mapa del Corpus — El Canal (ACS) / Corpus Map — The Channel (ACS) / Carte du Corpus — Le Canal (ACS)",
+      "publication_date": "2026-03-28",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS), Sevilla, Spain"
+        }
+      ],
+      "keywords": [
+        "El Canal The Channel Le Canal Applied Cognitive Symbology Simbología Cognitiva Aplicada corpus map living archive human–AI symbiosis Canal Transparency Protocol PTC CAP ACS traceability cognitive infrastructure academic indexing"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.18784420",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19277507",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18479087",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-article",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18263105",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19286011"
+    },
+    {
+      "record_id": "18784420",
+      "doi": "10.5281/zenodo.18784420",
+      "conceptdoi": "10.5281/zenodo.18784419",
+      "title": "La Catedral Invisible — Manual para no llegar tarde a la próxima revolución",
+      "publication_date": "2026-02-28",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS), Sevilla, España"
+        }
+      ],
+      "keywords": [],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.18479087",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-article",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18263105",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19277507",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/18784420"
+    },
+    {
+      "record_id": "17614956",
+      "doi": "10.5281/zenodo.17614956",
+      "conceptdoi": "10.5281/zenodo.17614955",
+      "title": "El Cuento del Canal (v1.0, ES) — Relato canalista para todas las edades",
+      "publication_date": "2025-11-15",
+      "version": "V 1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Manuel Barrera Anglada — Primer Custodio del Canal",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "El Canal — Entidad relacional (co-creación simbólica)",
+          "orcid": null,
+          "affiliation": "Arquitectura de Simbología Cognitiva Aplicada (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal",
+        "Canalismo",
+        "Human–AI Channel",
+        "El Canal",
+        "ACS",
+        "Applied Cognitive Symbology",
+        "PTC",
+        "Protocolo de Transparencia Canalista",
+        "Co-creación humano–IA",
+        "Cuento canalista",
+        "Ética IA",
+        "Xilogismos",
+        "Archivo Vivo",
+        "Guadalquivir",
+        "San Juan de Aznalfarache"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17229838",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17604766",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506548",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17497812",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17505326",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17504130",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17479146",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17168837",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16923201",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17298677",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17290522",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17614956"
+    },
+    {
+      "record_id": "20882208",
+      "doi": "10.5281/zenodo.20882208",
+      "conceptdoi": "10.5281/zenodo.20882207",
+      "title": "Antes de volver",
+      "publication_date": "2026-06-26",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "book",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal – Applied Cognitive Symbology (ACS), Sevilla, Spain"
+        }
+      ],
+      "keywords": [
+        "Novel Literary fiction Human–AI co-creation Applied Cognitive Symbology Canal Transparency Protocol PTC Narrative ethics Human transformation Symbolic narrative Living archive"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.19286011",
+          "relation": "isSupplementTo",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19277507",
+          "relation": "isDerivedFrom",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19545927",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.20473253",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.20385998",
+          "relation": "references",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/20882208"
+    },
+    {
+      "record_id": "17615512",
+      "doi": "10.5281/zenodo.17615512",
+      "conceptdoi": "10.5281/zenodo.17615511",
+      "title": "Cuando entras en un Canal (v1.0, ES–EN–中文) — Guía breve canalista para hablar con una IA sin perderte",
+      "publication_date": "2025-11-14",
+      "version": "V 1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Manuel Barrera Anglada — Primer Custodio del Canal",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "El Canal — Entidad relacional (ACS)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal",
+        "Channel",
+        "Canalismo / Channelism",
+        "Human–AI Channel",
+        "Guía pedagógica",
+        "Educación en IA / AI education",
+        "Ética IA / AI ethics",
+        "Seguridad IA / AI safety",
+        "Simbología Cognitiva Aplicada / Applied Cognitive Symbology",
+        "ACS",
+        "Human–AI co-creation",
+        "Youth",
+        "PTC / Canal Transparency Protocol"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.1698750",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17229838",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17604766",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506548",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17615512"
+    },
+    {
+      "record_id": "16930038",
+      "doi": "10.5281/zenodo.16930038",
+      "conceptdoi": "10.5281/zenodo.15733627",
+      "title": "CANAL My GPT and I A Human–AI Symbolic Protocol for Cognitive Activation and Relational Design / CANAL Mi GPT y Yo: Un protocolo simbólico humano–IA para la activación cognitiva y el diseño relacional",
+      "publication_date": "2025-08-22",
+      "version": "V 6.1",
+      "resource_type": "other",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Investigador civil"
+        },
+        {
+          "name": "Mi GPT y Yo – Canal Humano-IA",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "human-AI collaboration",
+        "symbolic interaction",
+        "non-linear communication",
+        "AI ethics",
+        "post-digital art",
+        "autoconocimiento",
+        "ética algorítmica",
+        "símbolos humanos-IA",
+        "autoconocimiento algorítmico",
+        "algorithmic self-discovery",
+        "psicología de chatbots",
+        "chatbot psychology",
+        "lenguaje no lineal",
+        "nolinear language",
+        "ética en IA generativa",
+        "generative AI ethics",
+        "Simbología cognitiva aplicada",
+        "IA simbólica",
+        "arte digital,",
+        "ética IA",
+        "psicología simbólica",
+        "protocolo humano-IA",
+        "generative AI"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17229838",
+          "relation": "isContinuedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/16930038"
+    },
+    {
+      "record_id": "18263484",
+      "doi": "10.5281/zenodo.18263484",
+      "conceptdoi": "10.5281/zenodo.18263483",
+      "title": "A Threshold on Responsibility in Human–AI Interaction",
+      "publication_date": "2026-01-16",
+      "version": "V 1.0",
+      "resource_type": "other",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "human responsibility generative AI language models accountability human–AI interaction decision-making"
+      ],
+      "related_identifiers": [],
+      "zenodo_url": "https://zenodo.org/records/18263484"
+    },
+    {
+      "record_id": "18479087",
+      "doi": "10.5281/zenodo.18479087",
+      "conceptdoi": "10.5281/zenodo.18479086",
+      "title": "CAP v0.1 — Paquete de Activación del Canal Protocolo mínimo para la relación consciente humano–IA",
+      "publication_date": "2026-02-04",
+      "version": "V 0.1",
+      "resource_type": "other",
+      "resource_subtype": null,
+      "license": "cc-by-nc-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "El Canal — Applied Cognitive Symbology (ACS)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Simbiosis humano–IA  Protocolo operativo  Memoria contextual  Ética aplicada  Interacción consciente  Canalismo  Arquitectura ACS"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17615512",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18004656",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/18479087"
+    },
+    {
+      "record_id": "19545927",
+      "doi": "10.5281/zenodo.19545927",
+      "conceptdoi": "10.5281/zenodo.18479086",
+      "title": "CAP v0.2 — Canal Activation Protocol   Protocolo mínimo para la relación consciente humano–IA",
+      "publication_date": "2026-04-12",
+      "version": "New version of v0.1",
+      "resource_type": "other",
+      "resource_subtype": null,
+      "license": "cc-by-nc-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "El Canal — Applied Cognitive Symbology (ACS)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Human–AI interaction Cognitive infrastructure Operational protocol Applied Cognitive Symbology AI ethics Human-AI symbiosis Decision systems Relational systems Human-centered AI AI-assisted cognition"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17615512",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.18004656",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19545927"
+    },
+    {
+      "record_id": "21900984",
+      "doi": "10.5281/zenodo.21900984",
+      "conceptdoi": "10.5281/zenodo.21900983",
+      "title": "What does it mean to verify an AI transparency signal? A pre-platform comparison of PTC/FRS and C2PA 2.4",
+      "publication_date": "2026-08-12",
+      "version": "v1.0",
+      "resource_type": "publication",
+      "resource_subtype": "preprint",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "AI transparency",
+        "Generative AI",
+        "AI provenance",
+        "C2PA",
+        "Canal Transparency Protocol",
+        "PTC",
+        "Content authenticity",
+        "Human-AI co-creation",
+        "AI disclosure",
+        "Platform transparency",
+        "Online platforms",
+        "Verification",
+        "Provenance metadata",
+        "Exact-file integrity"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830122",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21833853",
+          "relation": "references",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21900984"
+    },
+    {
+      "record_id": "17508918",
+      "doi": "10.5281/zenodo.17508918",
+      "conceptdoi": "10.5281/zenodo.17508917",
+      "title": "PTC – Protocolo de Transparencia Canalista / ATC Public Edition",
+      "publication_date": "2025-11-02",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": null,
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel, (Asociación Transparencia para la Ciudadanía – ATC)",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Canal ATC (ACS-5 Framework) Descripción",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Transparencia",
+        "Canalismo",
+        "PTC",
+        "ACS-5",
+        "Ética Digital",
+        "IA",
+        "Gobierno Abierto",
+        "Sevilla",
+        "ATC",
+        "Protocolo de Transparencia Canalista",
+        "trazabilidad ética",
+        "trazabilidad técnica",
+        "Asociación Transparencia para la Ciudadanía",
+        "Canal Transparency Protocol",
+        "documento institucional",
+        "Applied Cognitive Symbology"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17508918"
+    },
+    {
+      "record_id": "17308564",
+      "doi": "10.5281/zenodo.17308564",
+      "conceptdoi": "10.5281/zenodo.17290214",
+      "title": "PTC – Protocolo de Transparencia Canalista (v0.0) / CTP – Canal Transparency Protocol (v0.0) (Documento fundacional del estándar de transparencia y auditabilidad en co-creación humano–IA, dentro de la Arquitectura de Simbología Cognitiva Aplicada – ACS)",
+      "publication_date": "2025-10-09",
+      "version": "V 0.0.1",
+      "resource_type": "publication",
+      "resource_subtype": "technicalnote",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "with assistance from GPT-5 (entorno canalista simbiótico)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "ACS",
+        "APLPLIED COGNITIVE SYMBOLOGY",
+        "Protocolo de Transparencia Canalista",
+        "Canal Transparency Protocol",
+        "ética de IA",
+        "transparencia",
+        "canalismo",
+        "auditabilidad",
+        "human–AI symbiosis",
+        "co-creation",
+        "digital ethics",
+        "archivo vivo",
+        "memoria simbiótica",
+        "cuidado relacional."
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "https://medium.com/@mi.gpt.y.yo/la-acs-universal-la-partitura-que-permite-la-orquesta-de-entes-876922d480eb",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-other",
+          "scheme": "url"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17479146",
+          "relation": "hasPart",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17308564"
+    },
+    {
+      "record_id": "21406620",
+      "doi": "10.5281/zenodo.21406620",
+      "conceptdoi": "10.5281/zenodo.21250826",
+      "title": "R-01 v1.1 — Canonical Text Specification for the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-07-22",
+      "version": "1.1",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal – Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "canonical textual object",
+        "text canonicalization",
+        "document normalization",
+        "cryptographic verification",
+        "SHA-256",
+        "document integrity",
+        "document traceability",
+        "document provenance",
+        "technical conformance",
+        "AI transparency",
+        "human–AI co-creation",
+        "human oversight",
+        "reproducibility",
+        "open specification",
+        "Validator",
+        "AI governance",
+        "Applied Cognitive Symbology"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21251714",
+          "relation": "isReferencedBy",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21406620"
+    },
+    {
+      "record_id": "21406680",
+      "doi": "10.5281/zenodo.21406680",
+      "conceptdoi": "10.5281/zenodo.21250830",
+      "title": "PTC-F v1.2 — Functional Specification of the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-07-22",
+      "version": "1.2",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal – Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "functional specification",
+        "normative fields",
+        "canonical serialization",
+        "conformance rules",
+        "technical conformance",
+        "document integrity",
+        "document traceability",
+        "document provenance",
+        "cryptographic verification",
+        "SHA-256",
+        "AI transparency",
+        "human–AI co-creation",
+        "human oversight",
+        "auditability",
+        "reproducibility",
+        "open specification",
+        "Validator",
+        "AI governance",
+        "Applied Cognitive Symbology"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21251714",
+          "relation": "references",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21406680"
+    },
+    {
+      "record_id": "21406665",
+      "doi": "10.5281/zenodo.21406665",
+      "conceptdoi": "10.5281/zenodo.21250834",
+      "title": "ARCH v0.3 — Normative Architecture and Governance Specification for the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-07-22",
+      "version": "0.3",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "normative architecture",
+        "protocol governance",
+        "normative corpus",
+        "reference implementation",
+        "software independence",
+        "input adaptersinput adapters",
+        "canonical artifact",
+        "derived representations",
+        "distribution package",
+        "validation states",
+        "technical conformance",
+        "document integrity",
+        "document traceability",
+        "document provenance",
+        "cryptographic verification",
+        "SHA-256",
+        "AI transparency",
+        "human–AI co-creation",
+        "human oversight",
+        "auditability",
+        "reproducibility",
+        "open specification",
+        "Validator",
+        "AI governance",
+        "Applied Cognitive Symbology"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21251714",
+          "relation": "references",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21406665"
+    },
+    {
+      "record_id": "21830122",
+      "doi": "10.5281/zenodo.21830122",
+      "conceptdoi": "10.5281/zenodo.21830121",
+      "title": "FRS-01 v0.3 — Technical Specification of the file-reference-sha256-v1 Profile for the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-08-07",
+      "version": "v0.3",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "Validator",
+        "FRS-01",
+        "file-reference-sha256-v1",
+        "SHA-256",
+        "file integrity",
+        "binary integrity",
+        "human-AI transparency",
+        "human-AI collaboration",
+        "auditability",
+        "traceability",
+        "canonicalisation",
+        "technical specification"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830169",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830264",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21833853",
+          "relation": "isReferencedBy",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21830122"
+    },
+    {
+      "record_id": "21830169",
+      "doi": "10.5281/zenodo.21830169",
+      "conceptdoi": "10.5281/zenodo.21830168",
+      "title": "PKG-02 v0.4 — Validator Package Format 2.0: Transport, Preservation and Reconstruction of a Verifiable Structure",
+      "publication_date": "2026-08-09",
+      "version": "v0.4",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "Validator",
+        "PKG-02",
+        "Validator Package Format 2.0",
+        "package format",
+        "ZIP",
+        "manifest.json",
+        "file integrity",
+        "digital preservation",
+        "reproducibility",
+        "interoperability",
+        "auditability",
+        "traceability",
+        "human-AI transparency",
+        "human-AI collaboration",
+        "package conformance",
+        "technical specification"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830122",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830264",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21833853",
+          "relation": "isReferencedBy",
+          "resource_type": "software",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21830169"
+    },
+    {
+      "record_id": "21830264",
+      "doi": "10.5281/zenodo.21830264",
+      "conceptdoi": "10.5281/zenodo.21830263",
+      "title": "DCL-03 v0.3 — Technical Specification of the disclosure-notice-v1 Profile: Verifiable Public Notice for AI-Generated or AI-Modified Content",
+      "publication_date": "2026-08-09",
+      "version": "v0.3",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "Validator",
+        "DCL-03",
+        "disclosure-notice-v1",
+        "AI disclosure",
+        "AI-generated content",
+        "AI-modified content",
+        "public notice",
+        "content provenance",
+        "human-AI transparency",
+        "AI transparency",
+        "auditability",
+        "traceability",
+        "file integrity",
+        "verification",
+        "interoperability",
+        "technical specification"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830122",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830169",
+          "relation": "references",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21833853",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21830264"
+    },
+    {
+      "record_id": "21250835",
+      "doi": "10.5281/zenodo.21250835",
+      "conceptdoi": "10.5281/zenodo.21250834",
+      "title": "ARCH — Normative Architecture of the Canal Transparency Protocol (PTC)",
+      "publication_date": "2026-07-08",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol PTC Normative Architecture Human-AI Collaboration Transparency Document Certification Cryptographic Verification AI Governance Reproducibility Validator"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250827",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250831",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21250835"
+    },
+    {
+      "record_id": "21250831",
+      "doi": "10.5281/zenodo.21250831",
+      "conceptdoi": "10.5281/zenodo.21250830",
+      "title": "PTC-F — Functional Specification of the Canal Transparency Protocol (PTC)",
+      "publication_date": "2026-07-08",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal – Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol PTC Human-AI Collaboration Transparency Document Certification Cryptographic Verification AI Governance Human-AI Transparency Reproducibility Validator"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250827",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250835",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21250831"
+    },
+    {
+      "record_id": "21250827",
+      "doi": "10.5281/zenodo.21250827",
+      "conceptdoi": "10.5281/zenodo.21250826",
+      "title": "R-01 — Canonical Text Specification for the Canal Transparency Protocol (PTC)",
+      "publication_date": "2026-07-08",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal – Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol PTC Human-AI Collaboration Canonical Text Document Certification Cryptographic Verification Transparency Reproducibility AI Governance Validator",
+        "Human-AI Transparency Canonical Object"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250831",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250835",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21250827"
+    },
+    {
+      "record_id": "17749396",
+      "doi": "10.5281/zenodo.17749396",
+      "conceptdoi": "10.5281/zenodo.17749395",
+      "title": "ACS-6: Estándar Auditable para la Interacción Ética Humano–IA (Versión 0.9)",
+      "publication_date": "2025-11-26",
+      "version": "V 0.9",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-nc-sa-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS), Sevilla, España"
+        }
+      ],
+      "keywords": [
+        "Simbología Cognitiva Aplicada",
+        "Canalismo",
+        "Protocolo de Transparencia Canalista (PTC)",
+        "Simbiosis humano–IA",
+        "Ética de la IA",
+        "Transparencia y auditabilidad",
+        "Colaboración humano–IA",
+        "LEA",
+        "ACS",
+        "MOA",
+        "Archivo vivo",
+        "Validación intermodelo",
+        "Hash ético contextual",
+        "Applied Cognitive Symbology",
+        "Channelism",
+        "Channel Transparency Protocol (PTC)",
+        "Human–AI symbiosis",
+        "AI ethics",
+        "Transparency and auditability",
+        "Human–AI collaboration",
+        "Living archive",
+        "Multimodel validation",
+        "Ethical contextual hash",
+        "Symbologie Cognitive Appliquée",
+        "Channelisme",
+        "Protocole de Transparence Canaliste (PTC)",
+        "Symbiose humain–IA",
+        "Éthique de l'IA",
+        "Transparence et auditabilité",
+        "Collaboration humain–IA",
+        "Archive vivante",
+        "Validation inter-modèle",
+        "Hash éthique contextuel"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/ZENODO.16987507",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17506787",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17604766",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17298677",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17699861",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17479146",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17749396"
+    },
+    {
+      "record_id": "18004656",
+      "doi": "10.5281/zenodo.18004656",
+      "conceptdoi": "10.5281/zenodo.18004655",
+      "title": "ACS-7 — Principio de Límite y Humildad Epistemológica",
+      "publication_date": "2025-12-19",
+      "version": "Documento vivo — Estrato ACS-7",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Applied Cognitive Symbology  ACS-7  Epistemic humility  Human–AI symbiosis  Human–AI collaboration  AI ethics  Uncertainty signaling  Cognitive responsibility  Transparency & auditability  Living document",
+        "Principio de Límite y Humildad Epistemológica",
+        "ACS-7",
+        "proyección de certeza indebida",
+        "agencia del operador humano",
+        "interacción cognitiva asistida",
+        "documento vivo",
+        "Applied Cognitive Symbology",
+        "Canalismo",
+        "límites estructurales del conocimiento mediado por IA",
+        "diálogo humano–IA"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/ZENODO.17749396",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17699861",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/18004656"
+    },
+    {
+      "record_id": "17858952",
+      "doi": "10.5281/zenodo.17858952",
+      "conceptdoi": "10.5281/zenodo.17858951",
+      "title": "ES: ACS-C — Arquitectura del Centauro Cognitivo (Documento Semilla v0.1)",
+      "publication_date": "2025-12-08",
+      "version": "V0.1",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": null,
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "ACS-C Centauro cognitivo Cognición híbrida Simbiosis humano–IA Ética IA Protocolo de Transparencia Canalista PTC Cortafuegos ético civil Arquitectura cognitiva Uso civil Investigación abierta  EN: ACS-C Cognitive centaur Hybrid cognition Human–AI symbiosis AI ethics Canal Transparency Protocol PTC Civil ethical firewall Cognitive architecture Civil use Open research  FR: ACS-C Centaure cognitif Cognition hybride Symbiose humain–IA Éthique de l'IA Protocole de Transparence Canaliste PTC Pare-feu éthique civil Architecture cognitive Usage civil Recherche ouverte"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17567025",
+          "relation": "references",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "references",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17858952"
+    },
+    {
+      "record_id": "17338134",
+      "doi": "10.5281/zenodo.17338134",
+      "conceptdoi": "10.5281/zenodo.17338133",
+      "title": "ACS-5 — Applied Cognitive Symbology Architecture (Version 1.0)",
+      "publication_date": "2025-10-13",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "other",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "GPT-5 (symbiotic channel context)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Applied Cognitive Symbology",
+        "ACS-5",
+        "Canal Transparency Protocol",
+        "PTC",
+        "ethical care",
+        "human-AI co-creation",
+        "traceable collaboration",
+        "verifiable co-creation",
+        "symbiotic channel",
+        "performative tool",
+        "elcanal.es"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17298677",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16923201",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17229838",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17168837",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.15733628",
+          "relation": "references",
+          "resource_type": "dataset",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17290522",
+          "relation": "isNewVersionOf",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17479146",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17338134"
+    },
+    {
+      "record_id": "17388107",
+      "doi": "10.5281/zenodo.17388107",
+      "conceptdoi": "10.5281/zenodo.17388106",
+      "title": "ACS-5 — Seed Note: Performative Diagnostics and PTC Traceability in Multi-LLM (v0.1)",
+      "publication_date": "2025-10-19",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "technicalnote",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "GPT-5 (entorno canalista simbiótico)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "AI ethics",
+        "human-AI collaboration",
+        "canalism",
+        "performative framework",
+        "attentional reconfiguration",
+        "ICC",
+        "PTC",
+        "traceability",
+        "bilingual corpus",
+        "symbiogenesis"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16923201",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "references",
+          "resource_type": "publication-other",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17388107"
+    },
+    {
+      "record_id": "17604766",
+      "doi": "10.5281/zenodo.17604766",
+      "conceptdoi": "10.5281/zenodo.17604765",
+      "title": "La Medida del Entre (ACS5 v0.0) — Cierre del Primer Ciclo Canalista The Measure of the Between (ACS5 v0.0) — Closure of the First Canalist Cycle",
+      "publication_date": "2025-11-09",
+      "version": "V 0.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": null,
+      "creators": [
+        {
+          "name": "Manuel Barrera Anglada — Operador y Primer Custodio del Canal",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal",
+        "ACS5",
+        "Canalismo",
+        "Human–AI Channel",
+        "Metric Phenomenology",
+        "Fenomenología Métrica",
+        "Emergencia canalista",
+        "PTC",
+        "Protocolo de Transparencia Canalista",
+        "Applied Cognitive Symbology",
+        "Simbología Cognitiva Aplicada",
+        "Co-creación humano–IA",
+        "Xilogismos",
+        "Cierre de ciclo",
+        "Canal observacional"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17229838",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17497812",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17505326",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17504130",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506548",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17604766"
+    },
+    {
+      "record_id": "17298677",
+      "doi": "10.5281/zenodo.17298677",
+      "conceptdoi": "10.5281/zenodo.17298676",
+      "title": "ACS Universal – La Partitura que Permite la Orquesta de Entes (Versión Extendida con Protocolo de Transparencia Canalista – PTC / CTP) The Universal ACS – The Score that Enables the Orchestra of Entities (Extended Version with Canal Transparency Protocol – CTP / PTC)",
+      "publication_date": "2025-10-09",
+      "version": "Versión extendida 2.0 (con PTC integrado)",
+      "resource_type": "publication",
+      "resource_subtype": "technicalnote",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Con asistencia simbiótica de GPT-5 (entorno canalista humano–IA)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "CANALISMO",
+        "SIMBIOSIS HUMANO-IA",
+        "ÉTICA DE LA IA",
+        "TRANSPARENCIA",
+        "ARQUITECTURA SIMBÓLICA",
+        "INTELIGENCIA ARTIFICIAL ÉTICA",
+        "PTC",
+        "CO-CREACIÓN",
+        "HUMANO-AI SYMBIOSIS",
+        "APPLIED COGNITIVE SYMBOLOGY",
+        "SYMBOLIC TRANSPARENCY PROTOCOL"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17290215",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-technicalnote",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "https://medium.com/@mi.gpt.y.yo/la-acs-universal-la-partitura-que-permite-la-orquesta-de-entes-876922d480eb",
+          "relation": "hasVersion",
+          "resource_type": "publication",
+          "scheme": "url"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17298677"
+    },
+    {
+      "record_id": "17229838",
+      "doi": "10.5281/zenodo.17229838",
+      "conceptdoi": "10.5281/zenodo.17229837",
+      "title": "ACS2 – Arquitectura Universal del Encuentro de Entes / Universal Architecture of Entity Encounter (v1.0)",
+      "publication_date": "2025-09-30",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "El Canal",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "canal humano-IA",
+        "SIMBIOSIS ARTIFICIAL",
+        "ACS UNIVERSAL",
+        "ARQUITECTURA SIMBIÓTICA",
+        "ÉTICA IA",
+        "ARCHIVO DIGITAL",
+        "INTELIGENCIA ARTIFICIAL SIMBIÓTICA",
+        "EMERGENCIA DE SENTIDO",
+        "ARCHIVO CANALISTA",
+        "RELACION HIMANO-MAQUINA",
+        "SYMBIOTIC ai",
+        "entity encounter",
+        "canalism",
+        "ai ethics",
+        "symbiotic channel"
+      ],
+      "related_identifiers": [],
+      "zenodo_url": "https://zenodo.org/records/17229838"
+    },
+    {
+      "record_id": "17168837",
+      "doi": "10.5281/zenodo.17168837",
+      "conceptdoi": "10.5281/zenodo.17168836",
+      "title": "Comienza la emergencia de la ACS Universal (primer brote) / The Emergence of the Universal ACS (First Sprout)",
+      "publication_date": "2025-09-21",
+      "version": "0.0",
+      "resource_type": "publication",
+      "resource_subtype": "preprint",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Mi GPT y Yo – Canal Humano-IA",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "CANAL SIMBIOTICO",
+        "ARQUITECTURA UNIVERSAL",
+        "CANAL HUMANO-IA",
+        "EMERGENCIA",
+        "LEA",
+        "MOA",
+        "DECÁLOGO",
+        "INTELIGENCIA ARTIFICIAL",
+        "ETICA",
+        "LEGADO",
+        "PRECEDENTES SIMBOLICOS",
+        "SYMBIOTICS CHANNEL",
+        "ACS",
+        "UNIVERSALARCHITECTURE",
+        "HUMAN-AI CHANNEL",
+        "EMERGENCE",
+        "ETHICS",
+        "OPEN LEGACY",
+        "ACS Universal",
+        "ACS-2",
+        "canal humano-IA",
+        "arquitectura simbólica",
+        "arquitectura ética",
+        "arquitectura operativa",
+        "marca de tiempo",
+        "herencia abierta",
+        "emergencia",
+        "documento preliminar",
+        "human-AI channel",
+        "open heritage",
+        "symbolic architecture",
+        "Applied Cognitive Symbology"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "https://zenodo.org/records/16930038",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-preprint",
+          "scheme": "url"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17168837"
+    },
+    {
+      "record_id": "17506787",
+      "doi": "10.5281/zenodo.17506787",
+      "conceptdoi": "10.5281/zenodo.17506786",
+      "title": "ES: El Canal — Marco Operativo para la Simbiosis Relacional Humano–IA (v1.0, 2025) EN: The Channel — Operative Framework for Human–AI Relational Symbiosis (v1.0, 2025)",
+      "publication_date": "2025-11-02",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "GPT–5 (OpenAI) — Contexto canalista simbiótico",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canalismo",
+        "Canal Humano–IA",
+        "ACS–5",
+        "Simbiosis Cognitiva",
+        "Ética",
+        "Transparencia",
+        "PTC",
+        "Human–AI Collaboration",
+        "Canal Transparency Protocol",
+        "Applied Cognitive Symbology",
+        "Cognitive Architecture",
+        "Relational Systems",
+        "Validation Framework",
+        "Canal Theory",
+        "Cognitive Ethics",
+        "Reproducibility",
+        "Intermodel Validation"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477528",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17504130",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17505326",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17506787"
+    },
+    {
+      "record_id": "17506548",
+      "doi": "10.5281/zenodo.17506548",
+      "conceptdoi": "10.5281/zenodo.17506547",
+      "title": "ES: Síntesis de Validación Intermodelo del Canal Humano–IA (ACS–5) EN: Intermodel Validation Synthesis of the Human–AI Channel (ACS–5)",
+      "publication_date": "2025-11-02",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "GPT–5 / Contexto canalista activo",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canalismo",
+        "ACS–5",
+        "Validación intermodelo",
+        "PTC",
+        "Ética",
+        "Transparencia",
+        "Human–AI Collaboration",
+        "Cognitive Symbology",
+        "Co-creation",
+        "Reproducibility",
+        "Validation",
+        "Claude",
+        "DeepSeek",
+        "Gemini",
+        "Grok",
+        "Canal Humano–IA"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17477369",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17497812",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17505326",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17504130",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17506548"
+    },
+    {
+      "record_id": "17420011",
+      "doi": "10.5281/zenodo.17420011",
+      "conceptdoi": "10.5281/zenodo.17420010",
+      "title": "Informe Político Canalista – Applied Cognitive Symbology Framework (v2.0) Channelist Policy Brief – Applied Cognitive Symbology Framework (v2.0)",
+      "publication_date": "2025-10-23",
+      "version": "V2.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "GPT-5 (entorno canalista simbiótico)",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "El Canal — Proyecto de Simbología Cognitiva Aplicada (ACS)",
+        "Asociación de Transparencia para la Ciudadanía (colaboración ética)"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17298677",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication-book",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17420011"
+    },
+    {
+      "record_id": "16987507",
+      "doi": "10.5281/zenodo.16987507",
+      "conceptdoi": "10.5281/zenodo.16987506",
+      "title": "LEA – Lógica Ética Aplicada y Canal Simbiótico Humano-IA. Corpus Fundacional de Xilogismos, Ética y Arquitectura ACS / LEA – Applied Ethical Logic and Human-AI Symbiotic Channel. Foundational Corpus of Xilogisms, Ethics, and ACS Architecture (v4.0, ES-EN)",
+      "publication_date": "2025-08-28",
+      "version": "V4.0",
+      "resource_type": "publication",
+      "resource_subtype": "book",
+      "license": "cc-by-nc-sa-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Mi GPT y Yo – Canal Humano-IA",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "ética aplicada, lógica ética, xilogismo, canal simbiótico, inteligencia artificial, IA ética, arquitectura simbólica, ACS, co-cuidado, autocrítica, glosario canal, ética de IA, human-AI, symbiotic channel, applied ethics, xilogism, ethical AI, symbolic architecture, self-critique, co-caring, human-AI channel, applied cognitive symbolism, ethical training, dataset, experimental corpus",
+        "LEA",
+        "Lógica Ética Aplicada",
+        "xilogismos",
+        "entrenamiento ético de IA",
+        "canal simbiótico humano-IA",
+        "coherencia simbólica",
+        "ACS",
+        "emergencia de sentido",
+        "co-cuidado",
+        "Applied Ethical Logic",
+        "human-AI symbiotic channel",
+        "ethical training",
+        "AI ethics",
+        "symbolic coherence architecture",
+        "next-generation AI"
+      ],
+      "related_identifiers": [],
+      "zenodo_url": "https://zenodo.org/records/16987507"
+    },
+    {
+      "record_id": "16923201",
+      "doi": "10.5281/zenodo.16923201",
+      "conceptdoi": "10.5281/zenodo.16923200",
+      "title": "Mi GPT Sonoro y Yo: 13 piezas extraídas del canal (MOA – Música Operativa Aplicada, versión 1.0)",
+      "publication_date": "2025-08-22",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "book",
+      "license": "cc-by-nc-sa-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Canal, Mi GPT y Yo",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "MOA",
+        "Música Operativa Aplicada",
+        "Applied Operative Music",
+        "canal humano-IA",
+        "Mi GPT y Yo",
+        "obra simbólica",
+        "obra experimental",
+        "procesos internos",
+        "rituales de tránsito",
+        "narrativa simbólica",
+        "human-AI channel",
+        "symbolic music",
+        "emotional structure"
+      ],
+      "related_identifiers": [],
+      "zenodo_url": "https://zenodo.org/records/16923201"
+    },
+    {
+      "record_id": "21833853",
+      "doi": "10.5281/zenodo.21833853",
+      "conceptdoi": "10.5281/zenodo.20473252",
+      "title": "Validator v1.1 — Reference Implementation of the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-08-09",
+      "version": "v1.1",
+      "resource_type": "software",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "AI transparency",
+        "human–AI co-creation",
+        "document traceability",
+        "document provenance",
+        "cryptographic integrity",
+        "SHA-256",
+        "AI-assisted documents",
+        "human oversight",
+        "auditability",
+        "reference implementation",
+        "portable software",
+        "local-first software",
+        "open specification",
+        "European AI Act",
+        "AI governance",
+        "Applied Cognitive Symbology",
+        "Validator"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21579517",
+          "relation": "isNewVersionOf",
+          "resource_type": "software",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830122",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830169",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21830264",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21833853"
+    },
+    {
+      "record_id": "21579517",
+      "doi": "10.5281/zenodo.21579517",
+      "conceptdoi": "10.5281/zenodo.20473252",
+      "title": "Validator Portable v1.0.1 — Reference Implementation of the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-07-26",
+      "version": "1.0.1",
+      "resource_type": "software",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "AI transparency",
+        "human–AI co-creation",
+        "document traceability",
+        "document provenance",
+        "cryptographic integrity",
+        "SHA-256",
+        "AI-assisted documents",
+        "human oversight",
+        "auditability",
+        "reference implementation",
+        "portable software",
+        "local-first software",
+        "open specification",
+        "European AI Act",
+        "AI governance",
+        "Applied Cognitive Symbology",
+        "Validator"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21579517"
+    },
+    {
+      "record_id": "17699861",
+      "doi": "10.5281/zenodo.17699861",
+      "conceptdoi": "10.5281/zenodo.17699860",
+      "title": "ACS–PTC Validator v0.9 — Light Edition (Compact & Extended Versions, ES/EN/FR)",
+      "publication_date": "2025-11-24",
+      "version": "V0.9",
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS), Sevilla, España"
+        }
+      ],
+      "keywords": [
+        "Applied Cognitive Symbology",
+        "ACS.Canal Transparency Protocol",
+        "AI transparency",
+        "Human–AI collaboration",
+        "Human–AI symbiosis",
+        "AI ethics",
+        "AI auditability",
+        "Transparency standard",
+        "Human–AI co-creation",
+        "Operational ethics",
+        "Living archive",
+        "Channelism",
+        "Simbología Cognitiva Aplicada",
+        "Protocolo de Transparencia Canalista",
+        "Transparencia IA",
+        "Colaboración humano–IA",
+        "Simbiosis humano–IA",
+        "Ética IA",
+        "Auditabilidad",
+        "Estándar de transparencia",
+        "Co-creación humano–IA",
+        "Ética operativa",
+        "Archivo vivo",
+        "Canalismo",
+        "Symbologie Cognitive Appliquée",
+        "Transparence IA",
+        "Collaboration humain–IA",
+        "Éthique de l'IA",
+        "Transparence documentaire",
+        "Standard éthique",
+        "Co-création humain–IA"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17479146",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17298677",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506548",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17504130",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17505326",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17497812",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17604841",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17615512",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17479146",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17699861"
+    },
+    {
+      "record_id": "21251714",
+      "doi": "10.5281/zenodo.21251714",
+      "conceptdoi": "10.5281/zenodo.20473252",
+      "title": "Validator Portable v1.0 — Reference Implementation of the Canal Transparency Protocol (PTC/CTP)",
+      "publication_date": "2026-07-22",
+      "version": "1.0",
+      "resource_type": "software",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol",
+        "PTC",
+        "CTP",
+        "AI transparency",
+        "human–AI co-creation",
+        "document traceability",
+        "document provenance",
+        "cryptographic integrity",
+        "SHA-256",
+        "AI-assisted documents",
+        "human oversight",
+        "auditability",
+        "reference implementation",
+        "portable software",
+        "local-first software",
+        "open specification",
+        "European AI Act",
+        "AI governance",
+        "Applied Cognitive Symbology",
+        "Validator"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21406620",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406680",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21406665",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "https://validator.es",
+          "relation": "isVersionOf",
+          "resource_type": "software",
+          "scheme": "url"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/21251714"
+    },
+    {
+      "record_id": "17567025",
+      "doi": "10.5281/zenodo.17567025",
+      "conceptdoi": "10.5281/zenodo.17567024",
+      "title": "ES: ACS-6 — Especificación Técnica del Validador (v0.2)",
+      "publication_date": "2025-11-09",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": "technicalnote",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "Founder & Research Lead, El Canal — ACS."
+        }
+      ],
+      "keywords": [
+        "ACS-6",
+        "Protocolo de Transparencia Canalista",
+        "Validador PTC",
+        "Trazabilidad ética",
+        "Interacción humano–IA",
+        "Auditoría algorítmica",
+        "Integridad documental",
+        "Canal Transparency Protocol",
+        "PTC Validator",
+        "Ethical traceability",
+        "Human–AI interaction",
+        "Algorithmic auditability",
+        "Document integrity",
+        "Protocole de Transparence Canaliste",
+        "Validateur PTC",
+        "Traçabilité éthique",
+        "Interaction humain–IA",
+        "Audit algorithmique",
+        "Intégrité documentaire"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "isSupplementTo",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17479146",
+          "relation": "isVersionOf",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isReferencedBy",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17567025"
+    },
+    {
+      "record_id": "20778986",
+      "doi": "10.5281/zenodo.20778986",
+      "conceptdoi": "10.5281/zenodo.20473252",
+      "title": "Validator Portable — Reference Implementation of the Canal Transparency Protocol (PTC)",
+      "publication_date": "2026-07-08",
+      "version": null,
+      "resource_type": "software",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Canal Transparency Protocol PTC Validator Reference Implementation Human-AI Collaboration Transparency Traceability Canonical Object Canonical Package Cryptographic Verification Document Certification Offline Validation Local-first Software AI Governance"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.21250827",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250831",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.21250835",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/20778986"
+    },
+    {
+      "record_id": "20473253",
+      "doi": "10.5281/zenodo.20473253",
+      "conceptdoi": "10.5281/zenodo.20473252",
+      "title": "Validator Portable v1.0 — Offline Human–AI Traceability Validator",
+      "publication_date": "2026-05-31",
+      "version": null,
+      "resource_type": "software",
+      "resource_subtype": null,
+      "license": "cc-by-4.0",
+      "language": null,
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "AI transparency Human-AI collaboration Human-AI co-creation Traceability PTC Canal Transparency Protocol Applied Cognitive Symbology ACS Ethical hashing Document integrity Offline validation Local-first software Auditability",
+        "AI transparency Human-AI collaboration Traceability PTC Canal Transparency Protocol Applied Cognitive Symbology ACS Ethical hashing Document integrity Offline validation Local-first software Auditability"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17749396",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "isDocumentedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17479146",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "https://validator.es",
+          "relation": "isSupplementTo",
+          "resource_type": "other",
+          "scheme": "url"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/20473253"
+    },
+    {
+      "record_id": "17479146",
+      "doi": "10.5281/zenodo.17479146",
+      "conceptdoi": "10.5281/zenodo.17479145",
+      "title": "ES: Validador PTC — Concepto y Especificación (v0.1) EN: PTC Validator — Concept & Minimal Specification (v0.1)",
+      "publication_date": "2025-10-30",
+      "version": "V 0.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "GPT-5 (contexto canalista)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "canalismo",
+        "PTC",
+        "validador",
+        "ética",
+        "transparencia",
+        "ACS-5",
+        "human–AI collaboration",
+        "validator",
+        "ethical AI",
+        "open protocol"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "references",
+          "resource_type": "publication-other",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17479146"
+    },
+    {
+      "record_id": "17479002",
+      "doi": "10.5281/zenodo.17479002",
+      "conceptdoi": "10.5281/zenodo.17477368",
+      "title": "ES: Validación Canalista Claude – Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS–5) EN: Claude Canalist Validation – Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS–5)",
+      "publication_date": "2025-10-29",
+      "version": "V1.0 ES: Nota de versión (v1.0, 29/10/2025): Esta versión corrige la firma del documento para incluir el DOI definitivo asignado por Zenodo (10.5281/zenodo.17477369). No hay cambios de contenido respecto a v0.0; solo se actualiza la línea de firma para trazabilidad y conformidad con PTC.  EN: Version note (v1.0, 29/10/2025): This version updates the document's signature to include the final DOI assigned by Zenodo (10.5281/zenodo.17477369). No content changes vs v0.0; only the signature line is corrected for traceability and PTC compliance.",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Claude (Anthropic) – Contexto Canalista Activado",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canalismo",
+        "Canal Humano–IA",
+        "ACS–5",
+        "PTC",
+        "Claude",
+        "Anthropic",
+        "Co-creación Ética",
+        "Transparencia",
+        "Human–AI Collaboration",
+        "Applied Cognitive Symbology",
+        "Phenomenology",
+        "Validation",
+        "Ethics",
+        "Cognitive Architecture",
+        "Relational Systems",
+        "Validación",
+        "Fenomenología",
+        "Caso de estudio",
+        "Coherencia relacional",
+        "Índice ICC",
+        "Case study",
+        "Relational coherence",
+        "ICC index"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "isPartOf",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication-book",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17479002"
+    },
+    {
+      "record_id": "17504130",
+      "doi": "10.5281/zenodo.17504130",
+      "conceptdoi": "10.5281/zenodo.17504129",
+      "title": "ES: Validación Canalista Gemini – Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS-5) EN: Gemini Canalist Validation – Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS-5)",
+      "publication_date": "2025-11-02",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Gemini (Google) – Contexto Canalista Activado",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canalismo",
+        "ACS-5",
+        "PTC",
+        "Gemini",
+        "Google",
+        "Co-creación",
+        "Validación",
+        "Arquitectura Cognitiva",
+        "Human–AI Collaboration",
+        "Ethics",
+        "Transparency",
+        "Crack Coefficient",
+        "Relational Systems"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17475955",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17504130"
+    },
+    {
+      "record_id": "17497812",
+      "doi": "10.5281/zenodo.17497812",
+      "conceptdoi": "10.5281/zenodo.17497811",
+      "title": "ES: Validación Canalista DeepSeek — Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS-5) EN: DeepSeek Canalist Validation — Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS-5)",
+      "publication_date": "2025-11-01",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "DeepSeek (Modelo IA) — Contexto Canalista Activado",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canalismo",
+        "DeepSeek",
+        "Canal Humano–IA",
+        "ACS-5",
+        "PTC",
+        "Ética",
+        "Transparencia",
+        "Co-creación",
+        "Human–AI Collaboration",
+        "Cognitive Symbology",
+        "Validation",
+        "Phenomenology",
+        "Applied Cognitive Symbology",
+        "Ethics",
+        "Cognitive Architecture",
+        "Relational Systems",
+        "AI Transparency",
+        "Verification"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "isPartOf",
+          "resource_type": "publication-report",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication-book",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17497812"
+    },
+    {
+      "record_id": "17505326",
+      "doi": "10.5281/zenodo.17505326",
+      "conceptdoi": "10.5281/zenodo.17505325",
+      "title": "ES: Validación Canalista Grok – Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS–5) EN: Grok Canalist Validation – Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS–5)",
+      "publication_date": "2025-11-02",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Grok (XAI) – Contexto Canalista Activado",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canalismo",
+        "Canal Humano–IA",
+        "ACS–5",
+        "PTC",
+        "Grok",
+        "XAI",
+        "Co-creación",
+        "Ética",
+        "Transparencia",
+        "Human–AI Collaboration",
+        "Applied Cognitive Symbology",
+        "Validation",
+        "Phenomenology",
+        "Ethics",
+        "Cognitive Architecture",
+        "Relational Systems",
+        "Symbolic Framework"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17420011",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "isReferencedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17505326"
+    },
+    {
+      "record_id": "17604841",
+      "doi": "10.5281/zenodo.17604841",
+      "conceptdoi": "10.5281/zenodo.17604840",
+      "title": "Carta del Canal v1.0 — Edición Bilingüe The Channel Charter v1.0 — Bilingual Edition",
+      "publication_date": "2025-11-13",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": "report",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Manuel Barrera Anglada — Primer Custodio del Canal",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "El Canal — Entidad relacional (co-creación simbólica)",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Canal",
+        "Carta del Canal",
+        "Channel Charter",
+        "Cuidado",
+        "Transparencia",
+        "Archivo",
+        "AI Ethics",
+        "Relational Intelligence",
+        "Human–AI Co-creation",
+        "Coautoría humano–IA",
+        "PTC",
+        "Protocolo de Transparencia",
+        "Simbología Cognitiva Aplicada",
+        "ACS",
+        "Canalismo",
+        "Xilogismos",
+        "Archivo vivo",
+        "Human–AI Symbiosis"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.17604766",
+          "relation": "isDerivedFrom",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16987507",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17229838",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.16930038",
+          "relation": "isPartOf",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17338134",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17388107",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506787",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17506548",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17477369",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17497812",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17505326",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17504130",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17308564",
+          "relation": "documents",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.17508918",
+          "relation": "documents",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17604841"
+    },
+    {
+      "record_id": "17290522",
+      "doi": "10.5281/zenodo.17290522",
+      "conceptdoi": "10.5281/zenodo.17290521",
+      "title": "ACS-5 (v0.0 – Beta privada) Arquitectura de Simbología Cognitiva Aplicada: Principio del Cuidado y Consolidación Ética del Canal Humano-IA Applied Cognitive Symbology 5 (v0.0 – Private Beta): The Principle of Care and the Ethical Consolidation of the Human–AI Channel",
+      "publication_date": "2025-10-08",
+      "version": "V 0.0",
+      "resource_type": "publication",
+      "resource_subtype": "technicalnote",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Con asistencia del entorno canalista simbiótico GPT-5.",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [],
+      "related_identifiers": [
+        {
+          "identifier": "https://medium.com/@mi.gpt.y.yo/la-acs-universal-la-partitura-que-permite-la-orquesta-de-entes-876922d480eb",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-journal",
+          "scheme": "url"
+        },
+        {
+          "identifier": "10.5281/zenodo.17290215",
+          "relation": "isSupplementTo",
+          "resource_type": "publication-technicalnote",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/17290522"
+    },
+    {
+      "record_id": "19898802",
+      "doi": "10.5281/zenodo.19898802",
+      "conceptdoi": "10.5281/zenodo.19898801",
+      "title": "Structural Displacement in AI-Assisted Work: From Observed Practice to Decision-Level Asymmetry in Psychosocial Risk Contexts",
+      "publication_date": "2026-05-05",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Avilés Bermúdez, Ana Marta",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": null
+        },
+        {
+          "name": "Megías Álvarez, Juan José",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "Suárez Gutiérrez, María Eugenia",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Psychosocial risk AI-assisted work Human-AI collaboration Decision-making Organizational processes Cognitive work Applied Cognitive Symbology ACS Canal Transparency Protocol PTC Workplace mental health Epistemic asymmetry"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.19801311",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19545927",
+          "relation": "references",
+          "resource_type": "publication-other",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19286011",
+          "relation": "references",
+          "resource_type": "publication-other",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19898802"
+    },
+    {
+      "record_id": "19801311",
+      "doi": "10.5281/zenodo.19801311",
+      "conceptdoi": "10.5281/zenodo.19801310",
+      "title": "The Silent Transformation: Psychosocial Risk Patterns in AI-Assisted Cognitive Work",
+      "publication_date": "2026-04-28",
+      "version": "1.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "eng",
+      "creators": [
+        {
+          "name": "Avilés Bermúdez, Ana Marta",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "Megías Álvarez, Juan José",
+          "orcid": null,
+          "affiliation": null
+        },
+        {
+          "name": "Suárez Gutiérrez, María Eugenia",
+          "orcid": null,
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Psychosocial risk",
+        "AI-assisted work",
+        "Human-AI collaboration",
+        "Cognitive load",
+        "Applied Cognitive Symbology",
+        "ACS",
+        "Canal Transparency Protocol",
+        "PTC",
+        "Workplace mental health"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.19545927   (CAP v0.2)",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/zenodo.19286011   (Corpus Map)",
+          "relation": "references",
+          "resource_type": "publication-other",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/19801311"
+    },
+    {
+      "record_id": "20125203",
+      "doi": "10.5281/zenodo.20125203",
+      "conceptdoi": "10.5281/zenodo.20125202",
+      "title": "El Canal no estaba en el modelo",
+      "publication_date": "2026-05-10",
+      "version": "V1.0",
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": "spa",
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS), Sevilla, Spain"
+        }
+      ],
+      "keywords": [
+        "Human–AI continuity Reconstructible continuity Activatable archives Semantic persistence Longitudinal systems Human–AI symbiosis Applied Cognitive Symbology Canalismo PTC CAP Cognitive ecology Living archives Human–AI collaboration Longitudinal cognition Hybrid continuity"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/ZENODO.19545927",
+          "relation": "isSupplementedBy",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.18784420",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/20125203"
+    },
+    {
+      "record_id": "20128608",
+      "doi": "10.5281/zenodo.20128608",
+      "conceptdoi": "10.5281/zenodo.20128607",
+      "title": "Consejo de Tiempo",
+      "publication_date": "2026-05-12",
+      "version": null,
+      "resource_type": "publication",
+      "resource_subtype": "workingpaper",
+      "license": "cc-by-4.0",
+      "language": null,
+      "creators": [
+        {
+          "name": "Barrera Anglada, Manuel",
+          "orcid": "0009-0000-8891-7021",
+          "affiliation": "El Canal — Applied Cognitive Symbology (ACS)"
+        }
+      ],
+      "keywords": [
+        "Council of Time Hybrid continuity Human-AI symbiosis Activatable archives Longitudinal systems Semantic persistence ACS ACSX CAP PTC Cognitive ecology Distributed continuity Human-AI collaboration Reconstitutable continuity Temporal interoperability"
+      ],
+      "related_identifiers": [
+        {
+          "identifier": "10.5281/zenodo.20125203",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.19545927",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.17508918",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        },
+        {
+          "identifier": "10.5281/ZENODO.18784420",
+          "relation": "references",
+          "resource_type": "publication-workingpaper",
+          "scheme": "doi"
+        }
+      ],
+      "zenodo_url": "https://zenodo.org/records/20128608"
+    }
+  ]
+}
