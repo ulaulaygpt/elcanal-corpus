@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ulaulaygpt/elcanal-corpus/schemas/relations.schema.json",
+  "title": "El Canal internal DOI relation graph",
+  "type": "object",
+  "required": ["schema_version", "node_count", "edge_count", "scope", "edges"],
+  "properties": {
+    "schema_version": {"type": "integer", "const": 1},
+    "node_count": {"type": "integer", "minimum": 1},
+    "edge_count": {"type": "integer", "minimum": 0},
+    "scope": {"type": "string"},
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_doi", "relation", "target_doi"],
+        "properties": {
+          "source_doi": {"type": "string", "pattern": "^10\\.5281/zenodo\\.[0-9]+$"},
+          "relation": {"type": ["string", "null"]},
+          "target_doi": {"type": "string", "pattern": "^10\\.5281/zenodo\\.[0-9]+$"},
+          "resource_type": {"type": ["string", "null"]},
+          "scheme": {"type": ["string", "null"]}
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}
