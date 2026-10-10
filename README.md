@@ -31,7 +31,7 @@ This repository is not a replacement for Zenodo or elcanal.es.
 - **GitHub** exposes versionable structure, DOI lineage, machine-readable joins and explicit relationships.
 - **elcanal.es** presents the corpus to human readers and provides conceptual navigation.
 
-See `METHODOLOGY.md` for source precedence and derivation rules.
+See `METHODOLOGY.md` for source precedence and derivation rules. JSON Schemas for the generated catalogue, relation graph and consistency report are available under `schemas/`.
 
 ## Publication rule
 
