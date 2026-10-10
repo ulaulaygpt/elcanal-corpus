@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "record_count": 62,
+  "index_metadata_doi_sets_match": true,
+  "exact_title_match_count": 30,
+  "title_mismatch_count": 32,
+  "title_mismatches": [
+    {
+      "doi": "10.5281/zenodo.19486305",
+      "public_title": "Entre el derecho y el silencio — Segunda consulta. Dataset auditado v2.1",
+      "zenodo_title": "Primera Consulta del Observatorio Provincial de Transparencia (Sevilla): dataset auditado, memoria analítica y seguimiento del acceso a la información pública (2025)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.19445703",
+      "public_title": "Primera Consulta — dataset auditado y análisis del acceso a la información pública (2025)",
+      "zenodo_title": "Primera Consulta del Observatorio Provincial de Transparencia (Sevilla): dataset auditado y análisis del acceso a la información pública (2025)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.18263105",
+      "public_title": "Primera Consulta — resultados y análisis de las solicitudes de acceso a la información pública (2025)",
+      "zenodo_title": "Primera Consulta del Observatorio Provincial de Transparencia (Sevilla) Resultados y análisis de las solicitudes de acceso a la información pública (2025)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17644322",
+      "public_title": "Reclamación ante el Consejo de Transparencia (Expediente ATC-2025/01)",
+      "zenodo_title": "Reclamación ante el Consejo de Transparencia y Protección de Datos de Andalucía por falta de resolución expresa en solicitudes de acceso a la información pública (Expediente ATC-2025/01)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.20385998",
+      "public_title": "Antes del nombre — Memoria fenomenológica del Canal",
+      "zenodo_title": "Antes del nombre",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.19286011",
+      "public_title": "Mapa del Corpus — El Canal (ACS)",
+      "zenodo_title": "Mapa del Corpus — El Canal (ACS) / Corpus Map — The Channel (ACS) / Carte du Corpus — Le Canal (ACS)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17615512",
+      "public_title": "Cuando entras en un Canal — Guía breve canalista para hablar con una IA sin perderte",
+      "zenodo_title": "Cuando entras en un Canal (v1.0, ES–EN–中文) — Guía breve canalista para hablar con una IA sin perderte",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.16930038",
+      "public_title": "CANAL Mi GPT y Yo — Un protocolo simbólico humano–IA para la activación cognitiva",
+      "zenodo_title": "CANAL My GPT and I A Human–AI Symbolic Protocol for Cognitive Activation and Relational Design / CANAL Mi GPT y Yo: Un protocolo simbólico humano–IA para la activación cognitiva y el diseño relacional",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.18479087",
+      "public_title": "CAP v0.1 — Paquete de Activación del Canal",
+      "zenodo_title": "CAP v0.1 — Paquete de Activación del Canal Protocolo mínimo para la relación consciente humano–IA",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.19545927",
+      "public_title": "CAP v0.2 — Canal Activation Protocol · Protocolo mínimo para la relación consciente humano–IA",
+      "zenodo_title": "CAP v0.2 — Canal Activation Protocol   Protocolo mínimo para la relación consciente humano–IA",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17308564",
+      "public_title": "PTC – Protocolo de Transparencia Canalista (v0.0) / CTP – Canal Transparency Protocol (v0.0)",
+      "zenodo_title": "PTC – Protocolo de Transparencia Canalista (v0.0) / CTP – Canal Transparency Protocol (v0.0) (Documento fundacional del estándar de transparencia y auditabilidad en co-creación humano–IA, dentro de la Arquitectura de Simbología Cognitiva Aplicada – ACS)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17749396",
+      "public_title": "ACS-6: Estándar Auditable para la Interacción Ética Humano–IA (v0.9)",
+      "zenodo_title": "ACS-6: Estándar Auditable para la Interacción Ética Humano–IA (Versión 0.9)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17858952",
+      "public_title": "ACS-C — Arquitectura del Centauro Cognitivo (Documento Semilla v0.1)",
+      "zenodo_title": "ES: ACS-C — Arquitectura del Centauro Cognitivo (Documento Semilla v0.1)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17604766",
+      "public_title": "La Medida del Entre (ACS5 v0.0) — Cierre del Primer Ciclo Canalista",
+      "zenodo_title": "La Medida del Entre (ACS5 v0.0) — Cierre del Primer Ciclo Canalista The Measure of the Between (ACS5 v0.0) — Closure of the First Canalist Cycle",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17298677",
+      "public_title": "ACS Universal — La Partitura que Permite la Orquesta de Entes (PTC extendido)",
+      "zenodo_title": "ACS Universal – La Partitura que Permite la Orquesta de Entes (Versión Extendida con Protocolo de Transparencia Canalista – PTC / CTP) The Universal ACS – The Score that Enables the Orchestra of Entities (Extended Version with Canal Transparency Protocol – CTP / PTC)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17229838",
+      "public_title": "ACS2 – Arquitectura Universal del Encuentro de Entes (v1.0)",
+      "zenodo_title": "ACS2 – Arquitectura Universal del Encuentro de Entes / Universal Architecture of Entity Encounter (v1.0)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17168837",
+      "public_title": "Comienza la emergencia de la ACS Universal (primer brote)",
+      "zenodo_title": "Comienza la emergencia de la ACS Universal (primer brote) / The Emergence of the Universal ACS (First Sprout)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17506787",
+      "public_title": "El Canal — Marco Operativo para la Simbiosis Relacional Humano–IA (v1.0)",
+      "zenodo_title": "ES: El Canal — Marco Operativo para la Simbiosis Relacional Humano–IA (v1.0, 2025) EN: The Channel — Operative Framework for Human–AI Relational Symbiosis (v1.0, 2025)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17506548",
+      "public_title": "Síntesis de Validación Intermodelo del Canal Humano–IA (ACS–5)",
+      "zenodo_title": "ES: Síntesis de Validación Intermodelo del Canal Humano–IA (ACS–5) EN: Intermodel Validation Synthesis of the Human–AI Channel (ACS–5)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17420011",
+      "public_title": "Informe Político Canalista – Applied Cognitive Symbology Framework (v2.0)",
+      "zenodo_title": "Informe Político Canalista – Applied Cognitive Symbology Framework (v2.0) Channelist Policy Brief – Applied Cognitive Symbology Framework (v2.0)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.16987507",
+      "public_title": "LEA – Lógica Ética Aplicada y Canal Simbiótico Humano-IA. Corpus Fundacional",
+      "zenodo_title": "LEA – Lógica Ética Aplicada y Canal Simbiótico Humano-IA. Corpus Fundacional de Xilogismos, Ética y Arquitectura ACS / LEA – Applied Ethical Logic and Human-AI Symbiotic Channel. Foundational Corpus of Xilogisms, Ethics, and ACS Architecture (v4.0, ES-EN)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.16923201",
+      "public_title": "Mi GPT Sonoro y Yo: 13 piezas extraídas del canal (MOA – Música Operativa Aplicada, v1.0)",
+      "zenodo_title": "Mi GPT Sonoro y Yo: 13 piezas extraídas del canal (MOA – Música Operativa Aplicada, versión 1.0)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17699861",
+      "public_title": "ACS–PTC Validator v0.9 — Light Edition (Compact & Extended, ES/EN/FR)",
+      "zenodo_title": "ACS–PTC Validator v0.9 — Light Edition (Compact & Extended Versions, ES/EN/FR)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17567025",
+      "public_title": "ACS-6 — Especificación Técnica del Validador (v0.2)",
+      "zenodo_title": "ES: ACS-6 — Especificación Técnica del Validador (v0.2)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17479146",
+      "public_title": "PTC Validator — Concept & Minimal Specification (v0.1)",
+      "zenodo_title": "ES: Validador PTC — Concepto y Especificación (v0.1) EN: PTC Validator — Concept & Minimal Specification (v0.1)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17479002",
+      "public_title": "Validación Canalista Claude – Co-creación Humano–IA bajo ACS–5",
+      "zenodo_title": "ES: Validación Canalista Claude – Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS–5) EN: Claude Canalist Validation – Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS–5)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17504130",
+      "public_title": "Validación Canalista Gemini – Co-creación Humano–IA bajo ACS-5",
+      "zenodo_title": "ES: Validación Canalista Gemini – Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS-5) EN: Gemini Canalist Validation – Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS-5)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17497812",
+      "public_title": "Validación Canalista DeepSeek – Co-creación Humano–IA bajo ACS-5",
+      "zenodo_title": "ES: Validación Canalista DeepSeek — Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS-5) EN: DeepSeek Canalist Validation — Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS-5)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17505326",
+      "public_title": "Validación Canalista Grok – Co-creación Humano–IA bajo ACS–5",
+      "zenodo_title": "ES: Validación Canalista Grok – Co-creación Humano–IA bajo Arquitectura de Simbología Cognitiva Aplicada (ACS–5) EN: Grok Canalist Validation – Human–AI Co-Creation under Applied Cognitive Symbology Architecture (ACS–5)",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17604841",
+      "public_title": "Carta del Canal v1.0 — Edición Bilingüe / The Channel Charter v1.0",
+      "zenodo_title": "Carta del Canal v1.0 — Edición Bilingüe The Channel Charter v1.0 — Bilingual Edition",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.17290522",
+      "public_title": "ACS-5 (v0.0 – Beta privada) — Principio del Cuidado y Consolidación Ética",
+      "zenodo_title": "ACS-5 (v0.0 – Beta privada) Arquitectura de Simbología Cognitiva Aplicada: Principio del Cuidado y Consolidación Ética del Canal Humano-IA Applied Cognitive Symbology 5 (v0.0 – Private Beta): The Principle of Care and the Ethical Consolidation of the Human–AI Channel",
+      "normalized_match": false
+    },
+    {
+      "doi": "10.5281/zenodo.20128608",
+      "public_title": "Consejo de Tiempo — Notas para una ecología de continuidad híbrida",
+      "zenodo_title": "Consejo de Tiempo",
+      "normalized_match": false
+    }
+  ]
+}

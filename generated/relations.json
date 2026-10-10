@@ -1,0 +1,1667 @@
+{
+  "schema_version": 1,
+  "node_count": 62,
+  "edge_count": 237,
+  "scope": "Relations explicitly declared in Zenodo metadata where both endpoints are in the 62-DOI public corpus perimeter.",
+  "edges": [
+    {
+      "source_doi": "10.5281/zenodo.22571928",
+      "relation": "isNewVersionOf",
+      "target_doi": "10.5281/zenodo.19486305",
+      "resource_type": "publication-datapaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.22571928",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19486305",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19486305",
+      "relation": "isDescribedBy",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19486305",
+      "relation": "isNewVersionOf",
+      "target_doi": "10.5281/zenodo.18263105",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19486305",
+      "relation": "isVersionOf",
+      "target_doi": "10.5281/zenodo.19445703",
+      "resource_type": "publication-datapaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19445703",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19445703",
+      "relation": "isDescribedBy",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19445703",
+      "relation": "isNewVersionOf",
+      "target_doi": "10.5281/zenodo.18263105",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18263105",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18263105",
+      "relation": "isDescribedBy",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17644322",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17644322",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17562638",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17562638",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.22977400",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21830122",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.22977400",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21900984",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.22977400",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21579517",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19277507",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18479087",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19277507",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19277507",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18263105",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19277507",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18784420",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19286011",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18784420",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19286011",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.19277507",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19286011",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18479087",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19286011",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19286011",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18263105",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18784420",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18479087",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18784420",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18784420",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.18263105",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18784420",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.19277507",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17229838",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17604766",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506548",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17497812",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17505326",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17504130",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17479146",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17168837",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16923201",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17298677",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17614956",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17290522",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.19286011",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.19277507",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.19545927",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.20473253",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20882208",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.20385998",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17229838",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17604766",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17615512",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506548",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.16930038",
+      "relation": "isContinuedBy",
+      "target_doi": "10.5281/zenodo.17229838",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.16930038",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.16930038",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.16930038",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18479087",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18479087",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18479087",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18479087",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17615512",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18479087",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.18004656",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19545927",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19545927",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19545927",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19545927",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17615512",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19545927",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.18004656",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21900984",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21900984",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21830122",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21900984",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21900984",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21900984",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21833853",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17508918",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17308564",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406620",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406620",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406620",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.21251714",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406680",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406680",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406680",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21251714",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406665",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406665",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21406665",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21251714",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830122",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830122",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830122",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830122",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.21830169",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830122",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.21830264",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830122",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.21833853",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830169",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830169",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830169",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830169",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21830122",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830169",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21830264",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830169",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.21833853",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830264",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830264",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830264",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21830122",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830264",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.21830169",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21830264",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.21833853",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250835",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250835",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250827",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250835",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250831",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250831",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250831",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250827",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250831",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250835",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250827",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250827",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250831",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21250827",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250835",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.18004656",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17858952",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17858952",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17858952",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17858952",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17858952",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17567025",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17858952",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": null,
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17298677",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.16923201",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17229838",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17168837",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17338134",
+      "relation": "isNewVersionOf",
+      "target_doi": "10.5281/zenodo.17290522",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17388107",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17388107",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16923201",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17388107",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17388107",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17229838",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17497812",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17505326",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17504130",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506548",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604766",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17506787",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17504130",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17506787",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17505326",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17506787",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17506548",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17506548",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17420011",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17420011",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17298677",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17420011",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-book",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17420011",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isNewVersionOf",
+      "target_doi": "10.5281/zenodo.21579517",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21830122",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21830169",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21833853",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21830264",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21579517",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21579517",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21579517",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17479146",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17298677",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17506548",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17504130",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17505326",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17497812",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17604841",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17615512",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17699861",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17479146",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21251714",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406620",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21251714",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406680",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.21251714",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.21406665",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17567025",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17567025",
+      "relation": "isVersionOf",
+      "target_doi": "10.5281/zenodo.17479146",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17567025",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17567025",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17567025",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20778986",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250827",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20778986",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250831",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20778986",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.21250835",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20473253",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.17749396",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20473253",
+      "relation": "isDocumentedBy",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20473253",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17479146",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479146",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479146",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479146",
+      "relation": "isSupplementedBy",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479002",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479002",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479002",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17479002",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-book",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17504130",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17497812",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17497812",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17497812",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17497812",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-book",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17505326",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17420011",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17505326",
+      "relation": "isSupplementTo",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17505326",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17505326",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17505326",
+      "relation": "isReferencedBy",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "isDerivedFrom",
+      "target_doi": "10.5281/zenodo.17604766",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16987507",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.17229838",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "isPartOf",
+      "target_doi": "10.5281/zenodo.16930038",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17338134",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17388107",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506787",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17506548",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17497812",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17505326",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.17504130",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "documents",
+      "target_doi": "10.5281/zenodo.17308564",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.17604841",
+      "relation": "documents",
+      "target_doi": "10.5281/zenodo.17508918",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19898802",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.19801311",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19898802",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.19545927",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.19898802",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.19286011",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "source_doi": "10.5281/zenodo.20128608",
+      "relation": "references",
+      "target_doi": "10.5281/zenodo.20125203",
+      "resource_type": "publication-workingpaper",
+      "scheme": "doi"
+    }
+  ]
+}
