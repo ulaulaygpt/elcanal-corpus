@@ -1,0 +1,49 @@
+name: Validate public corpus index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "corpus-index.yml"
+      - ".github/workflows/validate-corpus-index.yml"
+  pull_request:
+    paths:
+      - "corpus-index.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate DOI perimeter
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, sys
+
+          text = Path("corpus-index.yml").read_text(encoding="utf-8")
+          dois = re.findall(r'^\s+doi:\s+"([^"]+)"\s*$', text, re.M)
+          titles = re.findall(r'^\s+title:\s+"([^"]+)"\s*$', text, re.M)
+          sections = re.findall(r'^\s+section:\s+"([^"]+)"\s*$', text, re.M)
+
+          errors = []
+          if len(dois) != 62:
+              errors.append(f"Expected 62 DOI entries, found {len(dois)}")
+          if len(set(dois)) != len(dois):
+              errors.append("Duplicate DOI detected")
+          bad = [d for d in dois if not re.fullmatch(r"10\.5281/zenodo\.\d+", d)]
+          if bad:
+              errors.append("Invalid DOI format: " + ", ".join(bad))
+          if len(titles) != len(dois):
+              errors.append(f"Title count {len(titles)} does not match DOI count {len(dois)}")
+          if len(sections) != len(dois):
+              errors.append(f"Section count {len(sections)} does not match DOI count {len(dois)}")
+
+          if errors:
+              print("\n".join(errors))
+              sys.exit(1)
+
+          print(f"PASS: {len(dois)} unique Zenodo DOIs; titles and sections aligned.")
