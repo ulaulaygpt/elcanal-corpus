@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/corpus-banner.jpg" alt="El Canal Public Corpus Registry" width="100%">
+</p>
+
+<p align="center">
   <img src="assets/brand/corpus-banner.png" alt="El Canal — Public Corpus Registry" width="100%">
 </p>
 
