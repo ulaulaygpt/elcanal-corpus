@@ -4,39 +4,38 @@ Machine-readable and auditable registry of the public **El Canal / Applied Cogni
 
 The public corpus currently represented on elcanal.es contains **62 unique DOIs** spanning technical protocols, software, conceptual research, ACS/LEA/MOA materials, validations, observatory outputs and narrative or historical works.
 
-## Complete DOI inventory
+## Current machine-readable state
 
-`corpus-index.yml` now contains the **complete deduplicated 62-DOI inventory** represented on the public corpus page of elcanal.es. It preserves the public section and displayed title for each DOI and acts as the machine-readable perimeter of the public corpus.
+The repository now exposes four complementary layers:
 
-`registry.yml` remains the richer curated layer for records whose versions, status, repositories and relations have already been normalized. The two files therefore have different roles: **inventory first, semantic enrichment second**.
+- `corpus-index.yml` — the complete deduplicated **62-DOI website perimeter**;
+- `metadata/zenodo-records.json` — archival metadata fetched from Zenodo for the same 62 records;
+- `generated/catalog.json` — merged website + Zenodo catalogue preserving both source views;
+- `generated/relations.json` — explicit internal relation graph derived only from Zenodo-declared relations.
+
+The current graph contains **62 nodes and 237 internal directed relation edges**.
+
+`generated/consistency.json` preserves source differences rather than erasing them. At the present snapshot, **30 titles match Zenodo exactly and 32 differ** because of public-facing shortening, multilingual expansion, punctuation or version wording.
+
+## Curated current layer
+
+`registry.yml` remains the normalized current layer for records whose version, status, repository or role has already been curated.
+
+It is intentionally distinct from the website snapshot. For example, **CAP v0.3 (10.5281/zenodo.23138399)** is already a public Zenodo release with its two canonical ZIP artefacts, while the current website corpus snapshot still represents CAP v0.2. That divergence is recorded in `reports/curated-vs-web-corpus.json` rather than silently reconciled.
 
 ## Purpose
 
 This repository is not a replacement for Zenodo or elcanal.es.
 
 - **Zenodo** preserves and cites closed artefacts.
-- **GitHub** exposes versionable structure, DOI lineage and machine-readable relationships.
+- **GitHub** exposes versionable structure, DOI lineage, machine-readable joins and explicit relationships.
 - **elcanal.es** presents the corpus to human readers and provides conceptual navigation.
+
+See `METHODOLOGY.md` for source precedence and derivation rules.
 
 ## Publication rule
 
 Only public, closed and unambiguous records should enter the registry. Private material, drafts, sensitive Observatorio data, SERATA internals and operator memory are excluded.
-
-## Planned machine-readable fields
-
-Each record may expose:
-
-- stable internal id;
-- title;
-- version;
-- publication date;
-- resource type;
-- language(s);
-- DOI;
-- concept DOI when applicable;
-- status (current / historical / superseded);
-- repository, site or implementation links;
-- relations to other El Canal artefacts.
 
 ## Provenance
 
