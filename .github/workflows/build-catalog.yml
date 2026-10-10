@@ -1,0 +1,36 @@
+name: Build public corpus catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "corpus-index.yml"
+      - "metadata/zenodo-records.json"
+      - "tools/build_catalog.py"
+      - ".github/workflows/build-catalog.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Build merged catalog and relation graph
+        run: python tools/build_catalog.py
+      - name: Commit generated registry products
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/catalog.json generated/relations.json generated/consistency.json
+          if git diff --cached --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git commit -m "Build merged corpus catalog and relation graph"
+          git push
