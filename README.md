@@ -4,6 +4,12 @@ Machine-readable and auditable registry of the public **El Canal / Applied Cogni
 
 The public corpus currently represented on elcanal.es contains **62 unique DOIs** spanning technical protocols, software, conceptual research, ACS/LEA/MOA materials, validations, observatory outputs and narrative or historical works.
 
+## Complete DOI inventory
+
+`corpus-index.yml` now contains the **complete deduplicated 62-DOI inventory** represented on the public corpus page of elcanal.es. It preserves the public section and displayed title for each DOI and acts as the machine-readable perimeter of the public corpus.
+
+`registry.yml` remains the richer curated layer for records whose versions, status, repositories and relations have already been normalized. The two files therefore have different roles: **inventory first, semantic enrichment second**.
+
 ## Purpose
 
 This repository is not a replacement for Zenodo or elcanal.es.
