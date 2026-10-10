@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ulaulaygpt/elcanal-corpus/schemas/consistency.schema.json",
+  "title": "El Canal source consistency report",
+  "type": "object",
+  "required": ["schema_version", "record_count", "index_metadata_doi_sets_match", "exact_title_match_count", "title_mismatch_count", "title_mismatches"],
+  "properties": {
+    "schema_version": {"type": "integer", "const": 1},
+    "record_count": {"type": "integer", "minimum": 1},
+    "index_metadata_doi_sets_match": {"type": "boolean"},
+    "exact_title_match_count": {"type": "integer", "minimum": 0},
+    "title_mismatch_count": {"type": "integer", "minimum": 0},
+    "title_mismatches": {"type": "array"}
+  },
+  "additionalProperties": true
+}
