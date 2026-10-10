@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ulaulaygpt/elcanal-corpus/schemas/catalog.schema.json",
+  "title": "El Canal merged public corpus catalogue",
+  "type": "object",
+  "required": ["schema_version", "record_count", "sources", "records"],
+  "properties": {
+    "schema_version": {"type": "integer", "const": 1},
+    "record_count": {"type": "integer", "minimum": 1},
+    "sources": {"type": "array", "items": {"type": "string"}},
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["section", "doi", "public_title", "zenodo_title", "record_id", "zenodo_url"],
+        "properties": {
+          "section": {"type": "string"},
+          "doi": {"type": "string", "pattern": "^10\\.5281/zenodo\\.[0-9]+$"},
+          "public_title": {"type": "string"},
+          "zenodo_title": {"type": ["string", "null"]},
+          "title_exact_match": {"type": "boolean"},
+          "title_normalized_match": {"type": "boolean"},
+          "record_id": {"type": "string"},
+          "concept_doi": {"type": ["string", "null"]},
+          "publication_date": {"type": ["string", "null"]},
+          "version": {"type": ["string", "null"]},
+          "resource_type": {"type": ["string", "null"]},
+          "resource_subtype": {"type": ["string", "null"]},
+          "license": {"type": ["string", "null"]},
+          "language": {"type": ["string", "null"]},
+          "creators": {"type": "array"},
+          "keywords": {"type": "array"},
+          "zenodo_url": {"type": "string"}
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}
