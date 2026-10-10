@@ -2,6 +2,8 @@
 
 Machine-readable and auditable registry of the public **El Canal / Applied Cognitive Symbology (ACS)** corpus.
 
+**Start here:** [Quick start for querying the corpus](QUICKSTART.md) · [El Canal GitHub map](https://github.com/ulaulaygpt)
+
 The public corpus currently represented on elcanal.es contains **62 unique DOIs** spanning technical protocols, software, conceptual research, ACS/LEA/MOA materials, validations, observatory outputs and narrative or historical works.
 
 ## Current machine-readable state
