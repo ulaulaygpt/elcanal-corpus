@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/brand/corpus-banner.png" alt="El Canal — Public Corpus Registry" width="100%">
+</p>
+
 # El Canal — Public Corpus Registry
 
 Machine-readable and auditable registry of the public **El Canal / Applied Cognitive Symbology (ACS)** corpus.
